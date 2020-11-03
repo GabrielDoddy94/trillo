@@ -1,3 +1,7 @@
-# Dependency directories
+.DS_Store
 
+# Dependency directories
+# node.js
+#
 node_modules/
+package-lock.json
